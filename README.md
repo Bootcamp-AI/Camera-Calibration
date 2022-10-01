@@ -1,7 +1,9 @@
 # Repository
 
-Clone the repository
+Clone the repository<br>
+
 <code>git clone https://github.com/udacity/RoboND-Camera-Calibration.git</code>
+<br>
 <code>
 cd RoboND-Camera-Calibration
 </code>
