@@ -2,7 +2,7 @@
 
 Clone the repository<br>
 
-<code>git clone https://github.com/udacity/RoboND-Camera-Calibration.git</code>
+<code>git clone https://github.com/Bootcamp-AI/Camera-Calibration.git</code>
 <br>
 <code>
 cd RoboND-Camera-Calibration
